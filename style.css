@@ -3,6 +3,26 @@
   font-family: Brush-Script MT;
 }
 .two {
-  color:cornflowerblue;
+  color: cornflowerblue;
+  font-family: Tahoma
+}
+.three {
+  color: goldenrod;
+  border: 1px solid black;
+  text-align: center;
+  font-family: Brush-Script MT;
+}
+.four {
+  color: lightblue;
+  text-align: center;
+  border: 1px solid black;
+  font-family: Tahoma
+}
+.five {
+  color: goldenrod;
+  font-family: Brush-Script MT;
+}
+.six {
+  color: cornflowerblue;
   font-family: Tahoma
 }
